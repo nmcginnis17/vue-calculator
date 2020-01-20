@@ -1,5 +1,10 @@
 # vue-calculator
 
+### Live Demo
+```
+http://nicholasmcginnis.com/calculator
+```
+
 ## Project setup
 ```
 npm install
